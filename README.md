@@ -86,12 +86,6 @@ video2_range_0042.png
 
 ---
 
-## 📸 Screenshot
-
-
-
----
-
 ## 🧠 How It Works
 
 - Uses `ffprobe` to detect video **duration** and **FPS**
@@ -101,19 +95,6 @@ video2_range_0042.png
 - Skips already-extracted files
 - Smart preview sliders auto-locate the nearest working frame
 
----
-
-## 🤝 Contributions
-
-Built and maintained by **Cody Chu**.
-
-PRs welcome! Ideas for:
-- Adding support for GIF/WebP
-- Lossless cropping or padding
-- AI-based scene selection
-- Subtitle frame detection
-
-...are very welcome.
 
 ---
 
