@@ -88,9 +88,7 @@ video2_range_0042.png
 
 ## 📸 Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/your-username/frame-extractor-ui.png)
 
-> *(Replace with a real image once you publish it)*
 
 ---
 
