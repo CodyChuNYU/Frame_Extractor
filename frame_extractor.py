@@ -1,5 +1,3 @@
-# FRAME EXTRACTOR — Final Version with Aspect Ratio Fix + Live Preview Every 2 Frames
-
 import asyncio, subprocess, random, os, sys, time, tempfile, re
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
