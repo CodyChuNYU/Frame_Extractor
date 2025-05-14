@@ -1,6 +1,6 @@
 # 🎞️ Frame Extractor
 
-**Frame Extractor** is a Gradio-powered app built by **Cody Chu** that lets you extract random or full sequences of frames from videos using FFmpeg. It supports both batch-folder and single-video modes, and includes real-time frame previews, slider-based range selection, multithreaded performance, and a live CLI progress bar.
+**Frame Extractor** is a Gradio-powered app that lets you extract random or full sequences of frames from videos using FFmpeg. It supports both batch-folder and single-video modes, and includes real-time frame previews, slider-based range selection, multithreaded performance, and a live CLI progress bar.
 
 ---
 
